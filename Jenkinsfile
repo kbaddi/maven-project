@@ -1,5 +1,3 @@
-# Jenkins file to run pipeline as code
-
 pipeline {
     agent any
     stages {

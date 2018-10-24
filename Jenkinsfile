@@ -1,4 +1,4 @@
-# Jenkins file to initiate build
+# Jenkins file to run pipeline as code
 
 pipeline {
     agent any
